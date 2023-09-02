@@ -4,7 +4,7 @@
     --cor-primary:  #000000;
     --cor-security: #ffffff;
     --cor-tercial:  #5B8FB9;
-    --cor-houver: #38373b;
+    --cor-hover: #38373b;
 
     --font-titulo: 'Krona One', sans-serif;
     --font-texto: 'Montserrat', sans-serif;
@@ -94,8 +94,8 @@ body{
     color: var(--cor-security);
     font-family: var(--font-texto);
 }
-.apresentacao__links__link:hover{
-    background-color: var(--cor-houver);
+.apresentacao__links__navegacao:hover{
+    background-color: var(--cor-hover);
 }
 .apresentacao__imagem {
     width: 50%;
